@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img   width="300" src="https://github-readme-stats.vercel.app/api?username=DanielGC9&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+
 
 ---
 
@@ -25,7 +25,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_hagameelfavor)
 
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/daniel_g_c/)
 
 <br/>
 
