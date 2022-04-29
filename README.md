@@ -1,4 +1,4 @@
-Hi 👋 My name is Daniel Guzman
+Hi 👋 My name is Daniel Guzmán Cuéllar
 ==============================
 
 Astronomer and Data Scientist
