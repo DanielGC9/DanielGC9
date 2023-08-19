@@ -4,7 +4,7 @@ Hi 👋 My name is Daniel Guzmán Cuéllar
 Astronomer and Data Scientist
 -----------------------------
 
-*   🌍  Im based in Medellín, Antioquia
+*   🌍  I'm based in Medellín, Antioquia
 *   ✉️  You can contact me at [daniel.guzman@udea.edu.co](mailto:daniel.guzman@udea.edu.co)
 *   🧠  I'm learning Machine learning and IA
 *   🤝  I'm open to collaborating on Data analysis
